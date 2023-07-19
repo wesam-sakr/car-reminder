@@ -374,7 +374,7 @@ body.fixed-nav {
   border-radius: 0px 5px 5px 0px;
 }
 #mainNav.navbar-dark .navbar-collapse .navbar-sidenav > .nav-item > .nav-link.active i{
-  background: url(images/rectangle.svg);
+  background: url(../images/rectangle.svg);
 }
 
 
